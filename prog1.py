@@ -12,4 +12,4 @@ mycursor=mydb.cursor()
 # mycursor.execute(sql)
 # t=mycursor.fetchall()
 # print(t)
-sql="insert into values('"
+# sql="insert into values('"
